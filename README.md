@@ -12,12 +12,19 @@
 
 ## 🚀 安装方式
 
-### 方式一：一键安装
-直接点击以下链接，篡改猴会自动识别并弹出安装窗口：
-```
-https://UesugiKou.github.io/Bili-Notrace/bili-notrace.user.js
-```
-> 注：需先安装 [Tampermonkey 浏览器扩展](https://www.tampermonkey.net/)（支持 Chrome / Edge / Firefox / Safari 等主流浏览器）
+> ⚠️ 前置要求：已安装 [Tampermonkey 浏览器扩展](https://www.tampermonkey.net/)（支持 Chrome / Edge / Firefox / Safari 等主流浏览器）
+
+### 方式一：一键安装（推荐，自动识别新版本）
+
+<a href="https://UesugiKou.github.io/Bili-Notrace/bili-notrace.user.js">
+  <img src="https://img.shields.io/badge/%E7%82%B9%E5%87%BB%E5%AE%89%E8%A3%85-%E7%AB%99%E5%A4%96%E7%89%88%E6%9C%AC%E4%B8%8B%E8%BD%BD-FB7299?style=for-the-badge&logo=tampermonkey&logoColor=white" alt="点击一键安装" style="height: 50px;"/>
+</a>
+
+<br/>
+<br/>
+
+或者直接点击这个链接：[https://UesugiKou.github.io/Bili-Notrace/bili-notrace.user.js](https://UesugiKou.github.io/Bili-Notrace/bili-notrace.user.js)
+> 篡改猴会自动识别 `.user.js` 后缀并弹出安装窗口，点击「安装」即可。
 
 ### 方式二：手动安装
 1. 安装 Tampermonkey 扩展
